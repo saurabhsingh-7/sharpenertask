@@ -1,0 +1,25 @@
+ul {
+    border: 1px solid rgb(169, 167, 167);
+}
+
+body{
+    margin: 30px;
+}
+
+form{
+    margin-bottom: 30px;
+}
+h1{
+    margin-bottom: 30px;
+}
+h3{
+    margin-bottom: 20px;
+}
+select{
+    width: 189.333px;
+    height: 30px;
+}
+button{
+    margin-left: 20px;
+    cursor: pointer;
+}
